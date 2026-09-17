@@ -11,7 +11,7 @@ export const initialProfile: Profile = {
   hero_description: 'I turn raw footage into stories that connect. Thoughtful cuts, purposeful motion, and a little bit of feeling.',
   email: 'niteshedits2002@gmail.com',
   whatsapp: '9315841623',
-  instagram: 'framesbynitesh',
+  instagram: 'framesbyniteshh',
   available: true,
   skills: ['Video Editing', 'Motion Graphics', 'Visual Design', 'Visual Storytelling', 'Sound Design', 'Color Grading'],
 }
