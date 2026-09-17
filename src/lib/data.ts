@@ -23,6 +23,7 @@ const videos: [string, string, string, 'long' | 'short'][] = [
   ['0eVg1vVAmYo', 'The story behind the skill', 'Tauseef’s PHP & MySQL journey · ADMEC', 'long'],
   ['pPoCS82plQQ', 'Creativity, in competition', 'Mega design competition · ADMEC', 'long'],
   ['xl4ou0YNxDM', 'Designing a new beginning', 'Graphic design student review · ADMEC', 'long'],
+  ['snql4iBHuFs', 'India–Sri Lanka Border Map Animation', 'Documentary-style edit . Youtube Shorts', 'short']
   ['7TuPSZmzOqY', 'The power of an edit', 'Editing breakdown · YouTube Shorts', 'short'],
   ['WM5w5YWv5jA', 'A story in seconds', 'Documentary-style edit · YouTube Shorts', 'short'],
   ['e3TQGlrSkCY', 'Made to move', 'Motion graphics · YouTube Shorts', 'short'],
